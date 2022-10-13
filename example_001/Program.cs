@@ -13,4 +13,4 @@ int result = input * input;
 Console.WriteLine("Квадрат числа " + result);
 //
 //Console.Writeline("Hello, world")
-//
+//op
